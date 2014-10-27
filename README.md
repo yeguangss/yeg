@@ -1,1 +1,3 @@
 hello world !!!
+
+THIS IS A GIT PROJECT ITEM. LET ME SHOW YOU 
